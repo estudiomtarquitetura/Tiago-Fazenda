@@ -2,3 +2,6 @@ Proj. Hidráulico: https://3dviewer.net#model=https://raw.githubusercontent.com/
 
 
 Proj. Esgoto Sanitário: https://3dviewer.net#model=https://raw.githubusercontent.com/estudiomtarquitetura/Tiago-Fazenda/main/Proj.%20Esgoto%20sanit%C3%A1rio%20-%20Tiago.mtl,https://raw.githubusercontent.com/estudiomtarquitetura/Tiago-Fazenda/main/Proj.%20Esgoto%20sanit%C3%A1rio%20-%20Tiago.obj
+
+
+Proj. Arquitetonico: https://3dviewer.net#model=https://raw.githubusercontent.com/estudiomtarquitetura/Tiago-Fazenda/main/Proj.%20Arquitetonico.obj,https://raw.githubusercontent.com/estudiomtarquitetura/Tiago-Fazenda/main/Proj.%20Arquitetonico.mtl
